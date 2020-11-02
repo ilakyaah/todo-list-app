@@ -1,0 +1,58 @@
+body {
+    background: #e06377;
+  }
+
+  #app-root {
+    background: rgb(41, 33, 33);
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 15px;
+    padding: 20px 10px;
+    color: white;
+    border: 3px solid green;
+    
+  }
+
+  .heading{
+      text-align: center;
+      font-weight: bolder;
+  }
+
+  input[type=text]{
+    margin: 10px 30px 10px 70px;
+    width: 50%;
+     border: 2px solid black;
+      padding: 10px;
+   }
+
+   button{
+    border-radius: 5px;
+    padding:9px;
+    width:70px;
+    cursor: pointer;
+  }
+
+  .tick {
+       padding: 5px;
+       width:40px;
+      
+        }
+
+  
+
+  .task{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 10px;
+     }
+
+ .header{
+   border: 1px solid black;
+   cursor:pointer;
+   border-radius: 5px;
+   width:200px;
+   margin:2px;
+   font-weight: bolder;
+   font-size: large;
+ } 
